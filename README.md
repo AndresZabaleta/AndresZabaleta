@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **AndresZabaleta/AndresZabaleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola 😊
+
+> *"Nunca subestimes el poder de tu dedicación y esfuerzo. Cada hora que inviertas en tu aprendizaje es un paso hacia la maestría. Mantén tu determinación y recuerda que cada desafío superado te acerca más a alcanzar tus metas. ¡Tú tienes el poder de crear un futuro brillante a través del aprendizaje constante!”*
+> 
